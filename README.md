@@ -1,2 +1,2 @@
 # cryptocurrency-trader
-trader
+trader for cryptocurrency
